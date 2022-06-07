@@ -1,0 +1,14 @@
+{
+  "name": "quienpagaapi",
+  "version": "1.0.0",
+  "description": "API para decidir quien carallo paga",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yinho",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
